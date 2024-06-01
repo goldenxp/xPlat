@@ -1,0 +1,10 @@
+﻿.vs
+bin
+obj
+out
+src/boot
+*.vcxproj*
+*.sln
+.sentry-native
+*.cfg
+*.dat
